@@ -1,0 +1,7 @@
+seed: 42
+symbol_list: [AAPL, MSFT, GOOGL]
+train_ratio: 0.7
+val_ratio: 0.15
+test_ratio: 0.15
+raw_data_dir: stock_prediction_research/data/raw
+processed_data_dir: stock_prediction_research/data/processed
