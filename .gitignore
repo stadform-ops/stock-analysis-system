@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+
+# 数据
+data/
+*.csv
+*.xlsx
+
+# 训练结果
+results/
+logs/
+
+# 模型
+*.pt
+*.pth
+*.ckpt
+
+# notebook
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
