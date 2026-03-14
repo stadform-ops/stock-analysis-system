@@ -1,0 +1,10 @@
+experiment_name: baseline_compare
+run_targets:
+  - exp_lstm
+  - exp_transformer
+  - exp_gnn
+metrics:
+  - mse
+  - mae
+  - direction_accuracy
+output_dir: stock_prediction_research/results
